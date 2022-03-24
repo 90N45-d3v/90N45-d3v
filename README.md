@@ -3,6 +3,7 @@
 
 ### Things I'm currently interested in:
 - Scripting with Bash
-- Python
+- Python 🐍 
 - WiFi
-- Microcontrollers like ESP8266
+- WiFi Pineapple 🍍 
+- Microcontrollers like ESP8266 👾
