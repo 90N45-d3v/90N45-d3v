@@ -12,3 +12,12 @@
 - WiFi
 - WiFi Pineapple 🍍 
 - Microcontrollers like ESP8266 👾
+- Raspberry Pi
+
+#### Programming languages I want to learn:
+| Language | Progress |
+| --------- | --------- |
+| BASH | 🟩🟩🟩🟩⬜️ |
+| Python 🐍 | 🟩⬜️⬜️⬜️⬜️ |
+| C++ (Arduino) | 🟩🟩⬜️⬜️⬜️ |
+| Rust 🦀 | ⬜️⬜️⬜️⬜️⬜️ |
