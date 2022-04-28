@@ -9,6 +9,8 @@
 - Microcontrollers like ESP8266 👾
 - Raspberry Pi
 
+---
+
 #### Programming languages I want to learn:
 | Language | Progress |
 | --------- | --------- |
@@ -16,6 +18,8 @@
 | Python 🐍 | 🟩⬜️⬜️⬜️⬜️ |
 | C++ (Arduino) | 🟩🟩⬜️⬜️⬜️ |
 | Rust 🦀 | ⬜️⬜️⬜️⬜️⬜️ |
+
+---
 
 #### TryHackMe?
 <p><a href="https://tryhackme.com/p/90N45">
