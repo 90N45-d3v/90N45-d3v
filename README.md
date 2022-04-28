@@ -4,8 +4,7 @@
 ---
 
 #### Things I'm currently interested in:
-- Scripting with Bash
-- Python 🐍 
+- Python ( + MicroPython and CircuitPython...) 🐍
 - WiFi
 - WiFi Pineapple 🍍 
 - Microcontrollers like ESP8266 👾
