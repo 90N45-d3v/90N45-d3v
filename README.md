@@ -41,7 +41,7 @@
 </details>
 
 <details>
-<summary><h4> ⚙️ Programming languages in my repositories</h4></summary>
+<summary><h4> ⚙️ Languages in my repositories</h4></summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=90N45-d3v&layout=compact&hide_border=true&bg_color=272E33&text_color=ffffff&title_color=76C113">
 </details>
 
