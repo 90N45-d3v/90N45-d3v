@@ -23,19 +23,19 @@
 </tr>
 <tr>
 <td>BASH <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Shell" width="15" height="15"></td>
-<td>🟩🟩🟩🟩⬜️</td>
+<td><img src="https://progress-bar.dev/75"></td>
 </tr>
 <tr>
 <td>Python <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="15" height="15"></td>
-<td>🟩🟩⬜️⬜️⬜️</td>
+<td><img src="https://progress-bar.dev/55"></td>
 </tr>
 <tr>
 <td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="21"></td>
-<td>🟩⬜️⬜️⬜️⬜️</td>
+<td><img src="https://progress-bar.dev/30"></td>
 </tr>
 <tr>
 <td>Rust <img src="https://fnordig.de/talks/2015/cccac/rust-intro/img/rustacean.png" alt="Crab" width="25" height="17"></td>
-<td>⬜️⬜️⬜️⬜️⬜️</td>
+<td><img src="https://progress-bar.dev/1"></td>
 </tr>
 </table>
 </details>
