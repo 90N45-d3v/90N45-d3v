@@ -27,7 +27,7 @@
 </tr>
 <tr>
 <td>Python <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="15" height="15"></td>
-<td><img src="https://progress-bar.dev/55"></td>
+<td><img src="https://progress-bar.dev/65"></td>
 </tr>
 <tr>
 <td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="21"></td>
