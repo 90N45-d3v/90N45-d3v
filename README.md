@@ -56,3 +56,7 @@
 <a href="https://twitter.com/90N45">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My-Twitter">
 </a>
+
+<a href="https://matrix.to/#/@90n45:matrix.org">
+<img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=76C113" alt="My-Matrix">
+</a>
