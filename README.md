@@ -30,12 +30,12 @@
 <td><img src="https://progress-bar.dev/65"></td>
 </tr>
 <tr>
-<td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="30" height="21"></td>
+<td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="20"></td>
 <td><img src="https://progress-bar.dev/30"></td>
 </tr>
 <tr>
-<td>Rust <img src="https://fnordig.de/talks/2015/cccac/rust-intro/img/rustacean.png" alt="Crab" width="25" height="17"></td>
-<td><img src="https://progress-bar.dev/1"></td>
+<td>Go-lang <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go-Logo" width="30"></td>
+<td><img src="https://progress-bar.dev/0"></td>
 </tr>
 </table>
 </details>
