@@ -53,10 +53,14 @@
 ---
 
 #### Contact me on...
+<a rel="me" href="https://infosec.exchange/@90N45">
+<img src="https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg" width="100" alt="Mastodon">
+</a>
+</br>
 <a href="https://twitter.com/90N45">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="My-Twitter">
 </a>
-
+</br>
 <a href="https://matrix.to/#/@90n45:matrix.org">
 <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=76C113" alt="My-Matrix">
 </a>
