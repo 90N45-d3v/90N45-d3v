@@ -7,6 +7,7 @@
 <ul>
 <li>Python ( + MicroPython and CircuitPython...) 🐍
 <li>WiFi 🛰
+<li>SDR 🛰
 <li><a href="https://www.makeuseof.com/10-diy-long-range-wi-fi-antennas-you-can-make-at-home/">DIY antennas 📡</a>
 <li><a href="https://github.com/hak5">@Hak5</a> WiFi Pineapple 🍍
 <li>Microcontrollers like ESP8266 👾
