@@ -9,7 +9,7 @@
 <li>WiFi 🛰
 <li>SDR 🛰
 <li><a href="https://www.makeuseof.com/10-diy-long-range-wi-fi-antennas-you-can-make-at-home/">DIY antennas 📡</a>
-<li><a href="https://github.com/hak5">@Hak5</a> WiFi Pineapple 🍍
+<li><a href="https://github.com/hak5">@Hak5</a> WiFi Pineapple 🍍 (My Modules: <a href="https://github.com/90N45-d3v/WiGLE-Pineapple-MK7-Module">WiGLE</a>, <a href="https://github.com/90N45-d3v/DNSspoof-Pineapple-MK7-Module">DNSspoof</a>)
 <li>Microcontrollers like ESP8266 👾
 <li>Raspberry Pi <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" alt="Berry" width="20" height="18">
 </ul>
