@@ -24,19 +24,19 @@
 </tr>
 <tr>
 <td>BASH <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Shell" width="15" height="15"></td>
-<td><img src="https://progress-bar.dev/75"></td>
+<td><img src="https://progress-bar.dev/60"></td>
 </tr>
 <tr>
 <td>Python <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="15" height="15"></td>
-<td><img src="https://progress-bar.dev/65"></td>
+<td><img src="https://progress-bar.dev/75"></td>
 </tr>
 <tr>
 <td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="20"></td>
-<td><img src="https://progress-bar.dev/30"></td>
+<td><img src="https://progress-bar.dev/20"></td>
 </tr>
 <tr>
 <td>Go-lang <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go-Logo" width="30"></td>
-<td><img src="https://progress-bar.dev/0"></td>
+<td><img src="https://progress-bar.dev/5"></td>
 </tr>
 </table>
 </details>
