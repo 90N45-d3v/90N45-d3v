@@ -3,42 +3,15 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=90N45-d3v&show_icons=true&hide_border=true&bg_color=272E33&text_color=ffffff&icon_color=558911&title_color=76C113)
 
 <details open>
-<summary><h4> 🤔 Things I'm currently interested in</h4></summary>
+<summary><h4> 🤔 Things I'm interested in</h4></summary>
 <ul>
-<li>Python ( + MicroPython and CircuitPython...) 🐍
-<li>WiFi 🛰
-<li>SDR 🛰
+<li>WiFi, Bluetooth, SDR and all the others 🛰 📻
 <li><a href="https://www.makeuseof.com/10-diy-long-range-wi-fi-antennas-you-can-make-at-home/">DIY antennas 📡</a>
 <li><a href="https://github.com/hak5">@Hak5</a> WiFi Pineapple 🍍 (My Modules: <a href="https://github.com/90N45-d3v/WiGLE-Pineapple-MK7-Module">WiGLE</a>, <a href="https://github.com/90N45-d3v/DNSspoof-Pineapple-MK7-Module">DNSspoof</a>, <a href="https://github.com/90N45-d3v/DenyIP-Pineapple-MK7-Module">DenyIP</a>)
+<li><a href="https://github.com/hak5">@Hak5</a> Bash Bunny (See <a href="https://github.com/90N45-d3v/BlueBunny">BlueBunny C2</a>)
 <li>Microcontrollers like ESP8266 👾
 <li>Raspberry Pi <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg" alt="Berry" width="20" height="18">
 </ul>
-</details>
-
-<details open>
-<summary><h4> 📚 Programming languages I want to learn</h4></summary>
-<table>
-<tr>
-<th>Language</th>
-<th>Progress</th>
-</tr>
-<tr>
-<td>BASH <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" alt="Shell" width="15" height="15"></td>
-<td><img src="https://progress-bar.dev/60"></td>
-</tr>
-<tr>
-<td>Python <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="15" height="15"></td>
-<td><img src="https://progress-bar.dev/75"></td>
-</tr>
-<tr>
-<td>C++ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="20"></td>
-<td><img src="https://progress-bar.dev/20"></td>
-</tr>
-<tr>
-<td>Go-lang <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go-Logo" width="30"></td>
-<td><img src="https://progress-bar.dev/5"></td>
-</tr>
-</table>
 </details>
 
 <details>
